@@ -38,6 +38,7 @@
         </valueSet>
     </fields>
     <fields>
+    
         <fullName>Loan_Amount__c</fullName>
         <label>Loan Amount</label>
         <precision>18</precision>
